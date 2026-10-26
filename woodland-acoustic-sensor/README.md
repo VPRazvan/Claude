@@ -15,6 +15,7 @@ Solar-powered acoustic sensor nodes for UK/EU woodland and estates. A network of
 | Phase | Scope | Status | Output |
 |---|---|---|---|
 | 0 | Clarifying questions | **Waiting on answers** | [docs/phase-0-questions.md](docs/phase-0-questions.md) |
+| 0b | Feasibility: business, financials, in-house capability | Draft | [docs/feasibility-business-hardware.md](docs/feasibility-business-hardware.md) |
 | 1 | System architecture, data flow, power budget, TDOA maths | Not started | `docs/phase-1-architecture.md` |
 | 2 | Hardware selection, BOM, PCB vs dev board | Not started | `hardware/` |
 | 3 | Enclosure design + OpenSCAD v1 | Not started | `enclosure/` |
